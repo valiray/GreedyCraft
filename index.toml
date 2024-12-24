@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/greedycraft.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/libraries/ComplementaryShaders_v4_0_2.xml"
+hash = "608b261874ebf8438d82dd27832ab70486c0a4326e6d5eef89c3423cbd827ff1"
+
+[[files]]
+file = ".idea/libraries/CustomSounds_Resourcepack.xml"
+hash = "de9687f65eb70e67e662265c93325bb05e19e0b83e4723d9fce3ba1bd0670cc0"
+
+[[files]]
+file = ".idea/libraries/backup.xml"
+hash = "bd6a4f42576993fcb54e4e82debd2f1d5c394a539afd379c9f40bdce48f907ca"
+
+[[files]]
+file = ".idea/libraries/resourcepacks.xml"
+hash = "323753e486d571766506e0a8ea27c615272f37e45eef7d45a4257735fab7623d"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "74f8901964156571e01f437f7907ba923a077cc983a5abe1558c17f8e4bdea4d"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "50c153e17cca04956cfabe71f3814c91c841c1f566ad1a018bed102a1aeeb5c1"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "099abc3e1e2de5972021825e9e0b1878b05d13f8c58eb7986ec167110ffca547"
+
+[[files]]
 file = "Credits.txt"
 hash = "4fb96f54ecf29ccf5e07e29c2ea34327b14ebc8a77d0cf68ced6ff76fc3738a9"
 
