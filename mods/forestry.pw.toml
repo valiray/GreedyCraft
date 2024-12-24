@@ -1,0 +1,13 @@
+name = "Forestry"
+filename = "forestry_1.12.2-5.8.2.424.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dea898b8fc3b36315a02c273ea858dcdee2689d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5903382
+project-id = 59751

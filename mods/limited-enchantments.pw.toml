@@ -1,0 +1,13 @@
+name = "Limited Enchantments"
+filename = "Limited Enchantments-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98f61a92fdac27fd396bdfebf7d8f72ffc56636d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3093297
+project-id = 415609

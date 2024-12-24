@@ -1,0 +1,13 @@
+name = "Unloader"
+filename = "unloader-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c615f6bd2dcd9ad30cb69422fd3241ee6f45816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2572528
+project-id = 286230

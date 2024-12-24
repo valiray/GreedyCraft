@@ -1,0 +1,13 @@
+name = "LootBags 16x16"
+filename = "1616lb.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "406f85c152e4cdbc2694202024030e7ef1ef15bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2763168
+project-id = 335815

@@ -1,0 +1,13 @@
+name = "A Dark Mode"
+filename = "Dark Mode-2.2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfa0e2305302758377db905a842fdec09623efde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5992271
+project-id = 365197

@@ -1,0 +1,13 @@
+name = "Bouncy Creepers"
+filename = "BouncyCreepers-0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6562f0d5e0c080ac36e183318feac3268944042d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2649128
+project-id = 295271

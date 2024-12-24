@@ -1,0 +1,13 @@
+name = "Animus"
+filename = "Animus-1.12-2.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c2ac1efa08df98632168a1b2536bf4081c910ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2888473
+project-id = 229664

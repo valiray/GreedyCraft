@@ -1,0 +1,13 @@
+name = "YUNG's Law (Forge)"
+filename = "YungsLaw-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6538598da3c76de971d07cdcca270894b6e84180"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3113274
+project-id = 399377

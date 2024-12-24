@@ -1,0 +1,13 @@
+name = "FTB Guides"
+filename = "FTBGuides-2.0.0.52.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2caf23c7057d14acaf838776bcca86a7332be085"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2827161
+project-id = 317586

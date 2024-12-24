@@ -1,0 +1,13 @@
+name = "Hidden Armor"
+filename = "hiddenarmor-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b1ec6a9b1f548a4ccf2a43a3b25e539cee3684f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2488344
+project-id = 279522

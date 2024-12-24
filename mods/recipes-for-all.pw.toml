@@ -1,0 +1,13 @@
+name = "Recipes for All"
+filename = "RecipesForAll-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35630b8648a1a1d09c4e32124e85aa21194d5de8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2563200
+project-id = 294233

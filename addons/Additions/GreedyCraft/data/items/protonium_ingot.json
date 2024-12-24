@@ -1,0 +1,7 @@
+{
+  "name": "§cProtonium Ingot",
+  "is_beacon_payment": true,
+  "tooltip": "§5§oMade of extremely dense protons.",
+  "ore_dict": "ingotProtonium",
+  "type": "additions:simple"
+}

@@ -1,0 +1,13 @@
+name = "EBlib"
+filename = "EBLib-6.0.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c757e35e1a91f2467f6cd75a3abd47415c9e56d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2660568
+project-id = 238524

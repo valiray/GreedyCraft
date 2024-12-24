@@ -1,0 +1,13 @@
+name = "GreedyCraft"
+author = "TCreopargh"
+version = "1.35.2.118.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d3acba04781e1085fdd5a706337f614c0cc0610e2ee59748b31a21b39f6e43a1"
+
+[versions]
+forge = "14.23.5.2855"
+minecraft = "1.12.2"

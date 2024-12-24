@@ -1,0 +1,13 @@
+name = "StepupFixer"
+filename = "StepupFix-1.12.2-1.0.0.4.b17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f48a3d03efa80d73c4f0c109b1e6dc3d2f563b4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2539644
+project-id = 248028

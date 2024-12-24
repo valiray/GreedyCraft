@@ -1,0 +1,13 @@
+name = "Tinker I/O"
+filename = "tinker_io-1.12.2-rw2.8.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fe015e930d57f3c9b4c41731f6464d55a198f72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3102626
+project-id = 229503

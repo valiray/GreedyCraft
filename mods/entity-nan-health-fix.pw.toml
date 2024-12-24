@@ -1,0 +1,13 @@
+name = "Entity NaN Health Fix"
+filename = "nanfix-final-absorbtion.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b50da35eeb2a53c8eac2c8bdb3a9746fd82710d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2611882
+project-id = 301932

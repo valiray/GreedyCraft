@@ -1,0 +1,13 @@
+name = "AutoPlant"
+filename = "autoplant-1.12-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d31d2633daa538b6739dee74e2f1805ae2fe4bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2432151
+project-id = 265666

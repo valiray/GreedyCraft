@@ -1,0 +1,13 @@
+name = "MAGE (Graphical Tweaks)"
+filename = "MAGE-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18ba28d2d654f387f6333068ebbc8f84641a295f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2625223
+project-id = 287471

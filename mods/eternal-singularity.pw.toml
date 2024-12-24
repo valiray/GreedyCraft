@@ -1,0 +1,13 @@
+name = "Eternal Singularity"
+filename = "eternalsingularity-1.12.2-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5eff7d239e448f63c71e8b9cab703d77c0051274"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2922583
+project-id = 253077

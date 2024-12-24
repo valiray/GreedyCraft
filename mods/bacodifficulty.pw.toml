@@ -1,0 +1,13 @@
+name = "BacoDifficulty"
+filename = "BacoDifficulty-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26b34f4ef4d78c594562147450ebe9d9c4a6c72e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2799921
+project-id = 344030

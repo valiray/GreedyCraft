@@ -1,0 +1,13 @@
+name = "Just Enough Pattern Banners"
+filename = "jepb-1.12-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa2c85f9acb9717854e1fffec5c0ce88ab4378cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2455920
+project-id = 263590

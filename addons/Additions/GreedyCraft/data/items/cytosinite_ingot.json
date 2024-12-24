@@ -1,0 +1,7 @@
+{
+  "name": "§aCytosinite Ingot",
+  "is_beacon_payment": true,
+  "tooltip": "§aThis metal is able to perform photosynthesis!",
+  "ore_dict": "ingotCytosinite",
+  "type": "additions:simple"
+}

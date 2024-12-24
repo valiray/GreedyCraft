@@ -1,0 +1,13 @@
+name = "Dungeons2"
+filename = "Dungeons2-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d01bdfa0b97033d467953d98f73520228ab6ec21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4814913
+project-id = 273362

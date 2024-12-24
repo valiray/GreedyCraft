@@ -1,0 +1,13 @@
+name = "Tinker's Tables"
+filename = "Tinker's Tables.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3cc060ae7f9fa2408be01842cf549442e52adf0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2825342
+project-id = 351130

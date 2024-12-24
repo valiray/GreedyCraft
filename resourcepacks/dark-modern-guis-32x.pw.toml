@@ -1,0 +1,13 @@
+name = "Dark Modern GUIs 32x"
+filename = "Dark Modern GUIs - 1.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64d660df1505ff7e30f61c0ec92b94d5c005b282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2560307
+project-id = 292831

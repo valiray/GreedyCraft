@@ -1,0 +1,13 @@
+name = "Unifine"
+filename = "Unifine-1.12.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "affbdf3e7ad618e45f48f27f432e18c1f8d1227d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2931402
+project-id = 376221

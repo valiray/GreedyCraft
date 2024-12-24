@@ -1,0 +1,13 @@
+name = "Open Modular Passive Defense"
+filename = "ompd-1.12.2-3.1.0-61.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "667273b400f08a9b50481f171fe6379b1139720e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2716443
+project-id = 254332

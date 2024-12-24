@@ -1,0 +1,13 @@
+name = "Enchantments Control"
+filename = "enchcontrol-1.12.2-1.1.5-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b20c184631912d4b232251d8028e97b0baa90e86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2791638
+project-id = 315721

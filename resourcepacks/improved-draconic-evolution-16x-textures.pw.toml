@@ -1,0 +1,13 @@
+name = "Draconic Evolution 16x Textures"
+filename = "de16x - 1.11.2-1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e16fca7c3502e17133e4527b884b3885bc50bbc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2581395
+project-id = 264210

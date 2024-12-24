@@ -1,0 +1,13 @@
+name = "BlahajASM"
+filename = "BlahajASM-5.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44ebde754535ed835d6389ea245b56a921d5e00b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5964150
+project-id = 1081696

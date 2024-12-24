@@ -1,0 +1,13 @@
+name = "Default Improved"
+filename = "Default Improved PBR 1.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93102f26fa50d6f225d1b6c5bbb874cce5872438"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2572308
+project-id = 236886
