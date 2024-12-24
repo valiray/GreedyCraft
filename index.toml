@@ -22136,6 +22136,11 @@ hash = "f35567291d094ce3d5b1ef8364040e55c1e05e4bad48b261a2871f84550eed97"
 metafile = true
 
 [[files]]
+file = "mods/stellarcore.pw.toml"
+hash = "67625d0f1c5bdd48272128fd08770affe815452af4eb4e2fdd70d6eecc52d85c"
+metafile = true
+
+[[files]]
 file = "mods/stepupfixer.pw.toml"
 hash = "ff641ebef3c45e4209745a175100b04761b4a01dbe0f2c3b429713546adb4b97"
 metafile = true
@@ -22458,6 +22463,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "754c41a1f4055814daf858bb3e4b03cd034ffb45e5093ea102a01db8d5fb48b4"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "4f2be4a9451756453a8c654b5cf127dc25427ede6b5dba469c138ac6023f8cd5"
 metafile = true
 
 [[files]]
