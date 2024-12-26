@@ -16993,15 +16993,15 @@ file = "config/mobinfo.cfg"
 hash = "43a284ec3a07dfeed2ec97b2ab9a99d26b7170de4d047d6588ab610f521e170b"
 
 [[files]]
-file = "config/mod-director/modpack.json"
+file = "config/mod-director/tmp/modpack.json"
 hash = "189f2701ee27835ef60ee7c7c30198268adc53888e40f7f712d7ef4d332d4864"
 
 [[files]]
-file = "config/mod-director/optifine.url.json"
-hash = "e02eb75c6c5b535d99fa8f7436a6b26f6c4a3a75d99cb3a83b36c9d108b775aa"
+file = "config/mod-director/tmp/optifine.url.json"
+hash = "e0ba333c97ac9bae79287375da6c7049dfed50e4a5c3f62113ba31ef4d990ccd"
 
 [[files]]
-file = "config/mod-director/soundphysics.url.json"
+file = "config/mod-director/tmp/soundphysics.url.json"
 hash = "e0593290c17c316823316129ccfc5a52f5f2b9db32f4a6792d4b1d9c641848f8"
 
 [[files]]
@@ -17843,6 +17843,10 @@ hash = "3d7cd9207304fedc2a9352b29d26361920b4f6e173be9eb662243e9f5d4cc8de"
 [[files]]
 file = "config/statuseffecthud.cfg"
 hash = "e54b31928b83ac8b2b5b5803c1c9fb004bfe5e3d7a84ee7d334f9fb770501046"
+
+[[files]]
+file = "config/stellar_core.cfg"
+hash = "9ade02e411d7073adfbce9aaed9710e8a8a5640dc20b03b62e800ca1352fa511"
 
 [[files]]
 file = "config/stepup.cfg"
@@ -20907,11 +20911,6 @@ hash = "ec200e7d330b65a9e745de9e8f0cffe55d20d0db7638b5f93a152fa896bda0d0"
 metafile = true
 
 [[files]]
-file = "mods/entity-culling.pw.toml"
-hash = "91c2d6674cd58f291e9bef17ee19fa0c4f44d4a3f19db8ff80b03f1b797b541f"
-metafile = true
-
-[[files]]
 file = "mods/entity-nan-health-fix.pw.toml"
 hash = "317c60027084875d8ad74d303a4e432a2bd803fbf963ccce594ec702840d4446"
 metafile = true
@@ -21542,9 +21541,8 @@ hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
 metafile = true
 
 [[files]]
-file = "mods/moddirector.pw.toml"
+file = "mods/moddirector.pw.toml-d"
 hash = "3c141c343f324f7050936c795b4889226f464640f93273c787ea346cf8ba5f70"
-metafile = true
 
 [[files]]
 file = "mods/modtweaker.pw.toml"
@@ -21777,11 +21775,6 @@ hash = "6c4c3db9fe686dcf7b0a66119e0399a541f6d2e9744c72e6b7c9099e2db1991e"
 metafile = true
 
 [[files]]
-file = "mods/particle-culling.pw.toml"
-hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
-metafile = true
-
-[[files]]
 file = "mods/passable-leaves.pw.toml"
 hash = "ea12813c8bc6d3652e2e5b696959d03d1627e4ce2435a31a91a3bedbe71c4857"
 metafile = true
@@ -21838,7 +21831,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.pw.toml"
-hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
+hash = "63c7dfd19c52033aee2f7acb2b88cab3a4d07e1e71a38b947fc1da33bede03f1"
 metafile = true
 
 [[files]]
@@ -21969,11 +21962,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-repository-revolved.pw.toml"
 hash = "81866b1e557ff797a40a775692541a370f7cc55f7facfa3555b13929bb40384e"
-metafile = true
-
-[[files]]
-file = "mods/renderlib.pw.toml"
-hash = "5b65213d7179d07ab308e4a108b53d5d3fc4caef98efd4fef64ddaaeaf489400"
 metafile = true
 
 [[files]]
