@@ -34,7 +34,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "099abc3e1e2de5972021825e9e0b1878b05d13f8c58eb7986ec167110ffca547"
+hash = "04d3d8c75359abd17c7e9a4b6ee7d404ec50e9c7964c84165b9afc5760796e4e"
 
 [[files]]
 file = "Credits.txt"
@@ -5819,6 +5819,22 @@ hash = "32861d0ef135dd6d9e788dcd36dbddb44aaecbc41390a1a690d82da62a5be748"
 [[files]]
 file = "config/TouhouLittleMaid.cfg"
 hash = "07edb0e26a1bbe40c9729c924573ba0c394623816be4ac04c57126ee321c275c"
+
+[[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "e6134ac325ab55e8d7b4e2e947cea668976c88a4dd64c7d5c7bc73b3ff1826de"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "4a68b49bf108303bf17d8a0c225091bd999dcff9c3b493778cc694df9e2c2452"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "2c9f0843396375620ed31f3c44ef3f812b295c3e345e9f8507a93839ea6c9787"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "1e6460c289965bfb6dab10c71f58429c912b47ea8d7d4747efed6d19e915d06b"
 
 [[files]]
 file = "config/VariedCommodities.cfg"
@@ -20135,11 +20151,6 @@ hash = "74a36f38c935764cdeb39012d012ce69cf46b35699de2fed9ed40f32031407e1"
 metafile = true
 
 [[files]]
-file = "mods/ai-improvements.pw.toml"
-hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
@@ -20230,11 +20241,6 @@ hash = "b5845b085b68412be56643fae73e648bdf47ec1d4b4e7bae9d530d3726cef124"
 metafile = true
 
 [[files]]
-file = "mods/attributefix.pw.toml"
-hash = "a9eb05b4ceb68aa65ddcba69918c28265e7247d83a8bd76993cdc0a800f8c5da"
-metafile = true
-
-[[files]]
 file = "mods/autoplant.pw.toml"
 hash = "eba6e474e3fef6c9df83a7a7e26eb9945ce845b62410b4455aaaa793ae35cf3d"
 metafile = true
@@ -20295,11 +20301,6 @@ hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
 metafile = true
 
 [[files]]
-file = "mods/better-burning.pw.toml"
-hash = "b8ffa52331619936e6e4ac1968ab1984fa958e8405293cb6230ee9cea8aa97c4"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-rebirth.pw.toml"
 hash = "8e0da6dd389e03262fe2bcfa7f612d75f7f7e5effe3395fa687220ec75847dc1"
 metafile = true
@@ -20352,11 +20353,6 @@ metafile = true
 [[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
-metafile = true
-
-[[files]]
-file = "mods/bigger-packets-please.pw.toml"
-hash = "91e55f53e659f5371a27adf9614c1166f0f75a1ca658c6dc69e4cdffdd20f724"
 metafile = true
 
 [[files]]
@@ -20417,11 +20413,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
-metafile = true
-
-[[files]]
-file = "mods/born-in-a-barn.pw.toml"
-hash = "e86b0efbbdaa466225d484b5585cf6b4874eb3d2eb30d59953fc1e5e7a98b80b"
 metafile = true
 
 [[files]]
@@ -20715,11 +20706,6 @@ hash = "27c57f2951e1779e3fa21d26208f0cbf75da0cdfea00a61b9fe5210fc5019b55"
 metafile = true
 
 [[files]]
-file = "mods/custom-main-menu.pw.toml"
-hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
-metafile = true
-
-[[files]]
 file = "mods/custom-starter-gear.pw.toml"
 hash = "dddbe2f0df078972469f1df3861b2f1e50cedc2e18e2c03bbe839f360ac1a0af"
 metafile = true
@@ -20775,16 +20761,6 @@ hash = "26a170f040c197f5ba9c2f12b4206b85831a9bae6c3f297e499bacf13b543586"
 metafile = true
 
 [[files]]
-file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
-hash = "c26c95c2144ff018c91e2494b946e7978521a9af755764e8a68ba60458e5c87d"
-metafile = true
-
-[[files]]
-file = "mods/diet-hoppers.pw.toml"
-hash = "af4387be3111addd8967e303100556e7ae0703d0e15836f8539ccec678ad44fa"
-metafile = true
-
-[[files]]
 file = "mods/dimension-stages.pw.toml"
 hash = "a431f0861bfbfbf3309c616cdc4a7914e1025ff12537b5902d948db6fe3391ec"
 metafile = true
@@ -20824,11 +20800,6 @@ hash = "1e45886eede6dbc8f08a3fa178325155a0545038f88f838b8d0ca74696d8e971"
 [[files]]
 file = "mods/dungeons2/styleSheet.json"
 hash = "e6cdbb9f5850c1432b8aa1abb5d8f09947d181476ec0daef3b84449497f764f3"
-
-[[files]]
-file = "mods/dupefix-project.pw.toml"
-hash = "5ae0a469d75940c6f882ea235bdc812274cfe7eb18e391f01e60f3b4eca509ef"
-metafile = true
 
 [[files]]
 file = "mods/dynamic-dynamos.pw.toml"
@@ -20911,11 +20882,6 @@ hash = "ec200e7d330b65a9e745de9e8f0cffe55d20d0db7638b5f93a152fa896bda0d0"
 metafile = true
 
 [[files]]
-file = "mods/entity-nan-health-fix.pw.toml"
-hash = "317c60027084875d8ad74d303a4e432a2bd803fbf963ccce594ec702840d4446"
-metafile = true
-
-[[files]]
 file = "mods/environmental-creepers.pw.toml"
 hash = "cf6746b491c2ca8143f28fbfdc23188893f996dc3bd37273407123a79af6b0af"
 metafile = true
@@ -20966,11 +20932,6 @@ hash = "29485e844486f243f8d6b8b2428ee5b362295fde9d5ab00a6367d4402475c78b"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
-metafile = true
-
-[[files]]
 file = "mods/fastflyblockbreaking.pw.toml"
 hash = "94542a93ec95ace197a0127419f88c23bc32499c1225de9327d46b0598e00a76"
 metafile = true
@@ -20978,16 +20939,6 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "d856a3027bb9f9d54c0ea2e02e6150510eeebd240bbb240779cdf0c27607110b"
-metafile = true
-
-[[files]]
-file = "mods/fence-jumper.pw.toml"
-hash = "e5476cffd4ac3ed1bbde939cc41b84fa804a666b1758354eea333a83978a2e45"
 metafile = true
 
 [[files]]
@@ -21031,6 +20982,11 @@ hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
 
 [[files]]
+file = "mods/forgelin-continuous.pw.toml"
+hash = "f8e22c51b3a9c8f4503e46fdb654253442c3a436f2abf3129297b2c45cfbef25"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "2571263ec4228ca6c6d2cdbf677bbb7b07622382163f606630304696ba5d4abc"
 metafile = true
@@ -21053,6 +21009,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-utilities-forge.pw.toml"
 hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
+metafile = true
+
+[[files]]
+file = "mods/fugue.pw.toml"
+hash = "3876138238f40ace9b9203c84cdee2a0d72cc0c961dc97801b754d437a7a365f"
 metafile = true
 
 [[files]]
@@ -21148,11 +21109,6 @@ metafile = true
 [[files]]
 file = "mods/hungertweaker.pw.toml"
 hash = "40525a0019de048f77412dce6dbe44400c6893c450d0c605c1f02ac81cf89b40"
-metafile = true
-
-[[files]]
-file = "mods/i-know-what-im-doing.pw.toml"
-hash = "e206e7e5e00994d0de97e8da69cb040a47574d714e85203e22b712204e073aee"
 metafile = true
 
 [[files]]
@@ -21371,8 +21327,8 @@ hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
 metafile = true
 
 [[files]]
-file = "mods/librarianlib.pw.toml"
-hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
+file = "mods/librarianlib-continuous.pw.toml"
+hash = "7c780eecab91bbda467b17c053d16bc457dfca6c24c3f13c30e53e4d5af2f6df"
 metafile = true
 
 [[files]]
@@ -22025,8 +21981,8 @@ hash = "3b64622d363f41f2f2375c0ac7c0803776ec96ec699cb6da5c1977f5fc7312fc"
 metafile = true
 
 [[files]]
-file = "mods/save-my-stronghold.pw.toml"
-hash = "a83d95bf25429f9f1df5053f870bf6cd814006efd7773604a7070cc6eb415177"
+file = "mods/scalar.pw.toml"
+hash = "e3a22ef958757e82d498d61fe6b44d944879c3147da5f3fdf85026ae48981287"
 metafile = true
 
 [[files]]
@@ -22192,16 +22148,6 @@ metafile = true
 [[files]]
 file = "mods/stygian-end-biome-expansion.pw.toml"
 hash = "8987a7c578410c36fd433c81f12faaa9380669c0e952dd7bc559d63af8532083"
-metafile = true
-
-[[files]]
-file = "mods/surge.pw.toml"
-hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
-metafile = true
-
-[[files]]
-file = "mods/swingthroughgrass.pw.toml"
-hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
@@ -22395,11 +22341,6 @@ hash = "324e1c7e752d97324dd0701b0e0cb7b592f4bacf8932161fa1fb317f90a0a6b0"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
-metafile = true
-
-[[files]]
 file = "mods/tofucraftreload.pw.toml"
 hash = "adc1294b16b13dc9d3880281e32f32228f48f54ecf25c36657520fe09c87a3f1"
 metafile = true
@@ -22492,11 +22433,6 @@ metafile = true
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
 hash = "4f2be4a9451756453a8c654b5cf127dc25427ede6b5dba469c138ac6023f8cd5"
-metafile = true
-
-[[files]]
-file = "mods/unloader.pw.toml"
-hash = "0738d17502642c2d3e9c154db1e724e7dd20be5506b3719af7175873cc05226a"
 metafile = true
 
 [[files]]
