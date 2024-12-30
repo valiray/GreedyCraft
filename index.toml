@@ -38,7 +38,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "9dcfe7348abf6234bff5769e036e24ba23a8fd6779d1dff00ed26c95f4e6ff4d"
+hash = "fc33ae09da9ebf98aad1b5b6a17fb26b2139c739455700612eb2e03bbb98a48c"
 
 [[files]]
 file = "Credits.txt"
@@ -9021,8 +9021,8 @@ file = "config/enderio/recipes/conduits-applied-energistics.pdf"
 hash = "9e2a36274de38828c216034d11e6cf2213d2198685e6db591965c5376ef85eb9"
 
 [[files]]
-file = "config/enderio/recipes/conduits-gas.xml"
-hash = "5087cc2efca6ae86c470c140268f8fe677cc7a8bcfee959f06156e85ad618106"
+file = "config/enderio/recipes/conduits-gas.pdf"
+hash = "7d9e8ba0fa8fdd8f93fa42cde5d98770a78b0d73e4a644894b83d0bb98473ff3"
 
 [[files]]
 file = "config/enderio/recipes/conduits.pdf"
@@ -17017,15 +17017,15 @@ file = "config/mobinfo.cfg"
 hash = "43a284ec3a07dfeed2ec97b2ab9a99d26b7170de4d047d6588ab610f521e170b"
 
 [[files]]
-file = "config/mod-director/tmp/modpack.json"
+file = "config/mod-director/modpack.json"
 hash = "189f2701ee27835ef60ee7c7c30198268adc53888e40f7f712d7ef4d332d4864"
 
 [[files]]
-file = "config/mod-director/tmp/optifine.url.json"
-hash = "e0ba333c97ac9bae79287375da6c7049dfed50e4a5c3f62113ba31ef4d990ccd"
+file = "config/mod-director/optifine.url.json"
+hash = "d1a62af6c007d70f0caf267e5c33dea4012a353e7ab65c160b8f1684536555c9"
 
 [[files]]
-file = "config/mod-director/tmp/soundphysics.url.json"
+file = "config/mod-director/soundphysics.url.json"
 hash = "e0593290c17c316823316129ccfc5a52f5f2b9db32f4a6792d4b1d9c641848f8"
 
 [[files]]
@@ -19526,7 +19526,7 @@ hash = "16d6278ed09d368b753f29ce1f3c23246edb32cae2b6f90b78076d8bafcd753e"
 
 [[files]]
 file = "config/versioner.cfg"
-hash = "aed939757efb382c2277c63609c21948755c8fe6ee9fe5b3567f850867b2da88"
+hash = "98c8a2b94b95121884d9dd732d05be743cabbf0ffb79127fd145b489b0f9b1e2"
 
 [[files]]
 file = "config/vials.cfg"
@@ -20960,6 +20960,11 @@ hash = "121e1e09c5ed36fba71199f5976589f26c5ff8ae8f4d43f0398c03b62c8a9196"
 metafile = true
 
 [[files]]
+file = "mods/flare.pw.toml"
+hash = "24fa50f6958381fcf97d902da91dcfec37b9cca60b6eb08f796f68e442227466"
+metafile = true
+
+[[files]]
 file = "mods/fluid-drawers.pw.toml"
 hash = "6f59b412881512ae1339649a4c46cb8406a4ca3d6b7b24705819324b6fd039e4"
 metafile = true
@@ -21505,8 +21510,9 @@ hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
 metafile = true
 
 [[files]]
-file = "mods/moddirector.pw.toml-d"
+file = "mods/moddirector.pw.toml"
 hash = "3c141c343f324f7050936c795b4889226f464640f93273c787ea346cf8ba5f70"
+metafile = true
 
 [[files]]
 file = "mods/modtweaker.pw.toml"
@@ -27494,3 +27500,7 @@ hash = "8621a32a9d2b8deeb68ae71e4686c35bdefa1f866b8881731459c00c8de0fef2"
 [[files]]
 file = "structures/active/castle_theavatar.rcst"
 hash = "766ce0c8cbf7e37b2b25691179e8a575187d358e46529338d0b8578d2dec7f4b"
+
+[[files]]
+file = "versioner_cf.json"
+hash = "7c50018b4cedcf383e6679b24144d9552df07b51862d2553450311cd72e55790"
