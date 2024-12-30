@@ -26444,8 +26444,24 @@ file = "resources/pack.mcmeta"
 hash = "17efacfd12264d1a41376fd3a4ba8fe9ccf20e78612f187fc45ce48307063d0d"
 
 [[files]]
+file = "scripts/.idea/misc.xml"
+hash = "74f8901964156571e01f437f7907ba923a077cc983a5abe1558c17f8e4bdea4d"
+
+[[files]]
+file = "scripts/.idea/modules.xml"
+hash = "d74a373a1a03e4ad9a7db151a25bcaeb1ffbda0674f88ed0b8b5965d0b542b18"
+
+[[files]]
+file = "scripts/.idea/scripts.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
 file = "scripts/.idea/vcs.xml"
-hash = "5710ddacf22e4be82b2e2c2223a89b59c39cf591aa954827366feaddace07047"
+hash = "269064f5ba7307dcd31a03b5c690698b3442c0f0024c1358361542f49f5509ae"
+
+[[files]]
+file = "scripts/.idea/workspace.xml"
+hash = "ea1060a6c98058e23704b131e2a78f92a49d60de0a3e0ca62e0c4f8198e9e174"
 
 [[files]]
 file = "scripts/compat/blockdrops/drops.zs"
@@ -26761,35 +26777,35 @@ hash = "6f366eff41f912e867efe83bda9041272df8db358aab21b63899c5aaf9a238ce"
 
 [[files]]
 file = "scripts/loot_tables/dungeon.zs"
-hash = "93a4489db99c904d140e58c019e8c343848c6286a3ea1c7249698b0dc06403a6"
+hash = "d5085a899308a1464597805bd6ced154b73fc8c9237e5579f4cc7055f2a9ab33"
 
 [[files]]
 file = "scripts/loot_tables/food_bag.zs"
-hash = "21cf210f37bc6ce348bf7e2c1caa7290f13dd669ba59c6eb0bce8f159540bc86"
+hash = "d4d9e063e611ce91d96a8d1511a7437be0ae939b622a4372d4284a32b5a631db"
 
 [[files]]
 file = "scripts/loot_tables/furniture.zs"
-hash = "34c8c9f287934e7075ca780e27d0a6ec5cc8411e34a3480c20e6e3ba8251a0b7"
+hash = "76694ea5ae9e8638510054b6a19647aee12bc08520260d51234ed50dce98c595"
 
 [[files]]
 file = "scripts/loot_tables/gift.zs"
-hash = "946bc00a43f7b9046eb45eedebcbbe2ae5d4bfd1ba15b3d8f554e011bdee51c7"
+hash = "887bb869821c03ce63f0d202a9fe8006458d9dd0a6bdb175a0f5c931c5b2eb0b"
 
 [[files]]
 file = "scripts/loot_tables/mobs.zs"
-hash = "1b2115a600087b6a72357fb0d54e108828f6dcaa5c14bb41f65a47dd03e82430"
+hash = "c7f7ee7195aebf0f4bfb98bbaf3d527dfcab4e278f9ef381129c65ccb1b603c8"
 
 [[files]]
 file = "scripts/loot_tables/tweaks.zs"
-hash = "80a7296ae46e09268cd2f4b567227cc550b3aaa310e7174fe783d13115a6623c"
+hash = "1fa75f7f51fd5fe51c59c2bc9da8e0f431c0749bc1d0dcb790d94f16cbef638b"
 
 [[files]]
 file = "scripts/loot_tables/urn.zs"
-hash = "168a65ecc64336beab826ae9f36c5950a45256512dd6ea4b7735e42ace92eebc"
+hash = "f7088b4eb0506d899a53fd8387d0f776d62c98538ebbbf3fdce3da4f2c9c51dd"
 
 [[files]]
 file = "scripts/misc/disabled_items.zs"
-hash = "e408b4d295d17c3a274e769a87892a88d1e4d6781a5bfbc17dba5886c84cd4b0"
+hash = "2978cd23aa1d3d3db6046a41856ed38b460d1523a1e12df04d9a160140ea4d2c"
 
 [[files]]
 file = "scripts/misc/mob_armor.zs"
@@ -26965,7 +26981,7 @@ hash = "31df5c79fd200ad4c7d9b9d16134572a8aed2152cb2b4ecb46b2e7a7515efd76"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/remove.zs"
-hash = "885af83a9c7170eb092edb7591ef702591dff86f2fa62b313db576afb29f7096"
+hash = "4aaaccc2a47810a2b20b10036462c64febf168076bae9da2830ca84fd79d6e20"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/shaped.zs"
@@ -27005,7 +27021,7 @@ hash = "da61e1db652b97e47a3e35c20ee5e8ed832ebc24a3cf37c7b1ac756cc3bbcd7a"
 
 [[files]]
 file = "scripts/tweaks/tooltip.zs"
-hash = "4e4e8af014a915f507bfeec267bc2d57089deb9e05306e3ddd03beca914c3bcd"
+hash = "1281ec5af464947880b2c2a5b400dd5e492f2f6cb7fb605476da19c7df414e19"
 
 [[files]]
 file = "scripts/util/date.zs"
@@ -27021,7 +27037,7 @@ hash = "59e16b038ab146db8950d2fa0d43f688100f5f7bd70c4533946e5d599ebf6d1a"
 
 [[files]]
 file = "scripts/util/loot_tables.zs"
-hash = "e622ef509abe0ad9e2714985d6ad22d1f5ebc34c7fb7ca8123e4c9e530ff0b3e"
+hash = "ff98dc23577f55e18c7fac54376bd98d1a738fc369fad0a7f8c2e22d588d63c8"
 
 [[files]]
 file = "scripts/util/machines.zs"

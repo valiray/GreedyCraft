@@ -39,8 +39,6 @@ static pools as LootPool[] = [
     LootTweaker.getTable("abyssalcraft:chests/omothol/blacksmith").getPool("main"),
     LootTweaker.getTable("abyssalcraft:chests/stronghold_corridor").getPool("main"),
     LootTweaker.getTable("abyssalcraft:chests/stronghold_crossing").getPool("main"),
-    LootTweaker.getTable("cqrepoured:chests/treasure").getPool("main"),
-    LootTweaker.getTable("cqrepoured:chests/material").getPool("main"),
     LootTweaker.getTable("defiledlands:chests/dungeon_defiled").getPool("main"),
     LootTweaker.getTable("lostcities:chests/lostcitychest").getPool("main"),
     LootTweaker.getTable("lostcities:chests/raildungeonchest").getPool("main"),
