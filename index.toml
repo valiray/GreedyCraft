@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/encodings.xml"
+hash = "d9979f9b1e918266f8f881e20001e886e404c63775db2c5f6dff11f6069b0bf0"
+
+[[files]]
 file = ".idea/greedycraft.iml"
 hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
 
@@ -34,7 +38,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "04d3d8c75359abd17c7e9a4b6ee7d404ec50e9c7964c84165b9afc5760796e4e"
+hash = "9dcfe7348abf6234bff5769e036e24ba23a8fd6779d1dff00ed26c95f4e6ff4d"
 
 [[files]]
 file = "Credits.txt"
@@ -5158,7 +5162,7 @@ hash = "c3ebd925e7aed0354198d9d31c207897b039a274036da41356c1724883587a83"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "5075aaebafe7281a296e88b3d4b9ebe12cbde48ef690774ccdf5b23dec7aeaed"
+hash = "25fbf0a176977cff2583b9c9617c264d3833d22357c7e02afcdfa52d3ad9c296"
 
 [[files]]
 file = "config/CustomNpcs.cfg"
@@ -16285,6 +16289,10 @@ file = "config/ftbutilities.cfg"
 hash = "c2d96d3a59f0cf60bd8477c8b5ade4d01a45b1ba873262936a5a6d169736c45c"
 
 [[files]]
+file = "config/fugue.cfg"
+hash = "80cb3874bc4c5d05cb84a82b721aa1a5f1e1ff6cbc2e8e4195d33941952da5d2"
+
+[[files]]
 file = "config/fw.cfg"
 hash = "890d6af3890c39d9a367a1256e4a6f82fd8aea23c8edd9c226ad7fe4ef1be86d"
 
@@ -20078,7 +20086,7 @@ hash = "a169f8bda14808567a39c306382a356d06227036d9d6e02e64a10f0d07307d9c"
 
 [[files]]
 file = "minemenu/menu.json"
-hash = "6910aff6830c9a40b37c94df7ae61e45ba52a89320f6b71ddd0d2e92282a894e"
+hash = "05fa7d850508b5732888818f3a9ff8297d97ab220bf002236e86e2a4994c2e94"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -20706,6 +20714,11 @@ hash = "27c57f2951e1779e3fa21d26208f0cbf75da0cdfea00a61b9fe5210fc5019b55"
 metafile = true
 
 [[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+metafile = true
+
+[[files]]
 file = "mods/custom-starter-gear.pw.toml"
 hash = "dddbe2f0df078972469f1df3861b2f1e50cedc2e18e2c03bbe839f360ac1a0af"
 metafile = true
@@ -21203,17 +21216,17 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "26a587c71d8c239340a41dcf90bb6e74b16e7ede53a555a655be26006c1eefe9"
+hash = "5dab38610269c729ea158ff55964dfb814dc17db04d4c897bb0aa92186252985"
 metafile = true
 
 [[files]]
 file = "mods/jaopcasingularities.pw.toml"
-hash = "97b76a1883118fc05a73a545e807b036e3a462db1a095e3baa17b64de70f84e4"
+hash = "96c6df70f2374fb33952528cbdffce44a4d13eef3164843478df39b4a8454604"
 metafile = true
 
 [[files]]
 file = "mods/jargca.pw.toml"
-hash = "d5bc7f4535e44681a59505602fb0a0cc1a0983896568e54c6134b9290329c7d4"
+hash = "18bc1eaa38b15802a726977dc1ffd8d97e87247964897d104cc494c1835e8573"
 metafile = true
 
 [[files]]
@@ -21429,11 +21442,6 @@ metafile = true
 [[files]]
 file = "mods/mekanismores.pw.toml"
 hash = "2e8b0bf399dd4e7eda06c2f228e2c49e9fb8b94bfd283c3a0385fb064293e91b"
-metafile = true
-
-[[files]]
-file = "mods/memory-cleaner-mod.pw.toml"
-hash = "1fcdff098e667190b11fbac4c907f8604a0c2951a7402dd4aa36752efe0588d3"
 metafile = true
 
 [[files]]
@@ -21918,6 +21926,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-repository-revolved.pw.toml"
 hash = "81866b1e557ff797a40a775692541a370f7cc55f7facfa3555b13929bb40384e"
+metafile = true
+
+[[files]]
+file = "mods/reid.pw.toml"
+hash = "554970ce60b52d7f3f06bac5c082c7a82465b8e2547fa46253acb52be00bec8a"
 metafile = true
 
 [[files]]
@@ -26431,608 +26444,612 @@ file = "resources/pack.mcmeta"
 hash = "17efacfd12264d1a41376fd3a4ba8fe9ccf20e78612f187fc45ce48307063d0d"
 
 [[files]]
+file = "scripts/.idea/vcs.xml"
+hash = "5710ddacf22e4be82b2e2c2223a89b59c39cf591aa954827366feaddace07047"
+
+[[files]]
 file = "scripts/compat/blockdrops/drops.zs"
-hash = "d760a0effed3071ad58fb2af5253901feebc2841bdcd207a1f9eca172f322042"
+hash = "cbb48a560ae70da6d34d251b7bb71e221f84f698260e268274b52429a0c599f3"
 
 [[files]]
 file = "scripts/compat/compatskills/level_attributes.zs"
-hash = "7fe638b6bea98ea8cd426ed502d82a66239b9b5f25744f2ded77c3e55ff670d1"
+hash = "f698c72470b0e7c990e7eb295f13838e9448aa848aae8101216eba7ce3473a16"
 
 [[files]]
 file = "scripts/compat/compatskills/nbt_lock.zs"
-hash = "7f762304d30da76a66747a54eb1778be5e1a9cdaf17a6b7a0b2ced2439e4f2a6"
+hash = "6abbd91b553aa6e5457003ab3a0f0707de25df8690d994579687613ebb4c497d"
 
 [[files]]
 file = "scripts/compat/compatskills/tconstruct_lock.zs"
-hash = "e9d7bbb09704ae3ca45e3bac2743ce8e69fbaf0d6987594c4eb4174ba85e1d73"
+hash = "d90cc712643e43b4c1d03d46c3199fe08d7aed41b8eaae07533c2b0ec6f5b915"
 
 [[files]]
 file = "scripts/compat/compatskills/tile_entity_lock.zs"
-hash = "52893a170da23e4b87ac38ca9a07882cc4cca51919681a8cbb9c1603a13c9895"
+hash = "0c17817f96cba7e6567ba058e4119d71b6854cdb2306c3a7ebcb81ed2fadaecb"
 
 [[files]]
 file = "scripts/compat/compatskills/traits.zs"
-hash = "54d36e85a6195b196b1eb6b9b0842702bc455730c65027811c2bb8751d478164"
+hash = "9883fa922e8ac99af9c9f05555745056a0f4a385559485e41ae54968928466b3"
 
 [[files]]
 file = "scripts/compat/custom_emc.zs"
-hash = "f0339f7c98c5d31c1e948769abc91f12678a8e07e6679ccce5400ee4444204e2"
+hash = "68c3bd02edc4a0226a5e246ba3aaea8f00619b530b9d135200904186cdba0836"
 
 [[files]]
 file = "scripts/compat/jei.zs"
-hash = "66ed4bfb7bb0ea558162bbfc9d509ab3c667fceea3c1154996f3154da3f788ac"
+hash = "5b61e025b2cd1b83e868159a645f82dad7c4e688e76782b1896671d6fc5980c4"
 
 [[files]]
 file = "scripts/compat/summoning/barako.zs"
-hash = "5704cc61fb8e8c015dea4203c21019fb30470e2db04c01727dedcacdc07221d4"
+hash = "60926e6c76b1e7208283d170757083d335aaba2fa6503fc97cbafc231415eb52"
 
 [[files]]
 file = "scripts/compat/summoning/frostmaw.zs"
-hash = "9bd23fdec58ecabd6e31b1269924088ca4a6d7c4e2bc16700e3f53b5f1be0536"
+hash = "864a511f2d6f63481db690867724ba2fba73c9860edf4b6b9d654d4eb090c670"
 
 [[files]]
 file = "scripts/compat/summoning/the_forbidden.zs"
-hash = "52380913a764d9ebb3e675c83d532fcc0fc7070b79f993034932f9811d967428"
+hash = "eafa35b7cc3157a60ea1f1738dc2d9559463dc847c4c831a2999aa58e7b06ffd"
 
 [[files]]
 file = "scripts/compat/thaumcraft_aspects.zs"
-hash = "6b382430a24a54b3cdbc668f52814afbb590d51925ddb7d5930e1da20d12f004"
+hash = "4d827682eda4665c51edc6e1c2b71b6f8f855dd65b5c5db185c7ae44788c9763"
 
 [[files]]
 file = "scripts/compat/tinkertoolleveling.zs"
-hash = "d78b3dd53ed0a3b2dddfc0f9c35ea2cea4c1e7a4a29c402895b5982a4874ff3e"
+hash = "69c0f9db7796fff9d9eb97772bb15c1ed27608c9ab6cc2155d64fa788a0f365b"
 
 [[files]]
 file = "scripts/contenttweaker/fluids.zs"
-hash = "03010329f3fb5d46abdbc6f119aad2b091b5e072e68a8d9a8f93d98fea665499"
+hash = "fa2e3f7fdf9c79113c6ae441f9228939a09ac66eedf86bc341a617621d35fcf5"
 
 [[files]]
 file = "scripts/contenttweaker/items.zs"
-hash = "627a10d15c1d5b1af42b00de7a71fa30a5ce0fa8344d5513491bb09321da4e6b"
+hash = "b39a62fc6dc2f572440f0050aeb9a74f9f18301820b8fdb6c3966164f7140387"
 
 [[files]]
 file = "scripts/contenttweaker/tconstruct/armor_traits.zs"
-hash = "cd99ac12d2eb63a9693aa8e52099e1ce07be4b33e983a1d5316aaa26eb00fe81"
+hash = "13d9a4ac954597feebfdc74d0c0712a2c96c08f6a6c31230863301c4fec39a3f"
 
 [[files]]
 file = "scripts/contenttweaker/tconstruct/materials.zs"
-hash = "19a559a186731615976ffcaf918956a283923937449990eb3a211f6040e20ced"
+hash = "6db4818ba9d274bd2813ca96dd595203e48dcf868b083a7a6bdd34702e8d8a99"
 
 [[files]]
 file = "scripts/contenttweaker/tconstruct/tool_traits.zs"
-hash = "6a9b87bc58eb501998ea47df276b440f09999d3d694c46735ad5da8c6b44dbf1"
+hash = "3adf2bbba4581d6e53e309d75c8f9c6636bf542777d32f2d5b81056d83d5bb7f"
 
 [[files]]
 file = "scripts/events_and_commands/commands.zs"
-hash = "27883aab92e2f26dd54b58a3446ed12ac90515ea7d23990014a40295a420afc5"
+hash = "22cac7b27499174f25a124b7f45ed324d85085c9fd90f07b29891ac5cf7d2057"
 
 [[files]]
 file = "scripts/events_and_commands/events/CQRBossHealthModifier.zs"
-hash = "1bcd2bb7d8b2be5fd49b6bd0376c8480fe787d723cda26d7356ee8d98917378f"
+hash = "1ea0afccc7f955bff793cbfdff445aa31d6952ba46c396971f4f6ce3bb0dc445"
 
 [[files]]
 file = "scripts/events_and_commands/events/GameStagesEvents.zs"
-hash = "b83b53d7dfab7ab2b8317a1cf3568febf52b6544091dbfab08e83ab1fce580bd"
+hash = "8ce1ee66662d1badc41d43ff70d4ae599240fa40212e61b1a3852cb20c542120"
 
 [[files]]
 file = "scripts/events_and_commands/events/MobSpawnerEvents.zs"
-hash = "bf10ba7146f471699374628299b027c8d8f52f729363976899b7830f941cf604"
+hash = "dd1e8bd270eccf6f0565f99c39f18d570a363a47d3a422f73e8a90503519614b"
 
 [[files]]
 file = "scripts/events_and_commands/events/onBlockHarvestDrops.zs"
-hash = "dab01b79a62b2b0bee19c7c8b327a92f2e0ae319ff28ea4ea7b7dc7a243fda40"
+hash = "4b80759cda8a1a9f7c4080da3f585d152e9446f83e27fd77f448b0172e25b44b"
 
 [[files]]
 file = "scripts/events_and_commands/events/onEntityLivingDeath.zs"
-hash = "9583aeeb914e73420c77385a77e227dd3acfe50951e14d562573757aa4acbf3e"
+hash = "e928f3fdf758400bfa15e75a0d232ff8ac8831a62734ee1aeff473889005fc76"
 
 [[files]]
 file = "scripts/events_and_commands/events/onEntityLivingHurt.zs"
-hash = "73f73fc6e8de7f0d604bc973d345283687e74e2845d994c485ff1e6ff660850e"
+hash = "71d774878a44cada21b18b802e173575384e75e8d9c6c1657983b317d1364d0d"
 
 [[files]]
 file = "scripts/events_and_commands/events/onEntityLivingSpawn.zs"
-hash = "eb894da7af176ef28b46195f30ee59d39d321fee19856104cbe7fe433c552981"
+hash = "848b8586e2fe127b7f1663aedc85902caf6d72ab1a747a844cdcf891faaf3a9d"
 
 [[files]]
 file = "scripts/events_and_commands/events/onEntityLivingUpdate.zs"
-hash = "30d8c064497830777e1c11b1392e1d54b21ce2515b33fc85544802d922771b37"
+hash = "343579a39797b5a1f8e53cbeb72a8365a93291b44620c4b88c85ed284a5f2563"
 
 [[files]]
 file = "scripts/events_and_commands/events/onPlayerLoggedIn.zs"
-hash = "f47025bf47ca892fc299e722d0a96326bbe78b925e728fc0c157db1be347c672"
+hash = "331c6440506a04605b8610c345bf22b4b414b095b2d35cd37e513aad69f0d4b2"
 
 [[files]]
 file = "scripts/events_and_commands/events/onPlayerRespawn.zs"
-hash = "8682fb272b97abb8815ea5d71d94cd159fd7d169fd474f186108fcc5477b0f84"
+hash = "0f880c1fce8c66228e0898329e16a3e28e30b3a51a6ed5362ff49ff77b98b37f"
 
 [[files]]
 file = "scripts/events_and_commands/events/onPlayerTick.zs"
-hash = "3f20a2a79545cc0b591cd176c0e265777ad84d3294a5b382c78f8ea238a4826c"
+hash = "d9e674dd4c43d67a5decc1ba0f003afb18dddb6f2eeccf5bc6dec40a038c7e3e"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/adventure/display.zs"
-hash = "ebda35e37e3f0e8ae98e937a785d00878425824da7cb5040c148787f662e33c0"
+hash = "99cd96acd364e6759bfd7ab12703a019c3703d882f909f1f2d0232fd1c6aec6a"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/adventure/hunger.zs"
-hash = "9733255a7a87f20d3789b1108bc553c2c73d16c0a8747c1ad2a947b96ae5ac1f"
+hash = "8d98db2852740bdbd0996fd7b65bf1cb92a3f81c0ef9d7681b1eff4923d4d122"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/adventure/onjoin.zs"
-hash = "8db776b40bdb2c9e23cf3752a5fd0f2a3cdaa6cac7e6e511a302b63985d6a30c"
+hash = "8f697106ed089fceeaff0e6b0b371f3e61b1a1a9867e8196e8638872ed8b30ca"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/casual/commands.zs"
-hash = "7963f9b44b2bd039086925bcc85fcb95d9c703df9f1c94788a71e0881e5901d6"
+hash = "c3d215dda50ca64c00f2d3e432de2ccf88b5cb24657b4d812c4c43e37f6c519d"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/casual/display.zs"
-hash = "be1b112d6e0c3ca8cf5fec1babe85d4fee6bcc70b673a166774da0c2fc9d1575"
+hash = "41509da0669afa4ee592435898f70eb827134d39a1814454b1181c87f370079d"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/casual/hunger.zs"
-hash = "13d7e21d481858b9e4443b8ddf3e9979663009350a832443bb20c9493a7d98c6"
+hash = "ae0cc79748b9adef097df76e9299d1b131496421882773b138303077013f3451"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/casual/onjoin.zs"
-hash = "84e07d209a3763614b25cd1ad3f940ff1025a705acc489dcb758567eda8324fd"
+hash = "563cb412f8d312e218899dde30e4138e095a955fe78c469be1bbd0e0edbe2392"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/boss_health.zs"
-hash = "e81f5293ad845f4155e3af5e6aea7fd077c99083732f7e03198c6a90b8cec9bc"
+hash = "0bc2cebfd116689254e2c0238c47e520d3bbecac85bc11cf59f10d79c90ebf61"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/display.zs"
-hash = "040b86b28b0b7a335625f2c2f5ed1d0c2d7aaed830cb9cd1add0147d223c6610"
+hash = "2cdf939829dc3ba01f21ad2e32d062dfeb5e3212fc62fdea20951c12f4dfe7f2"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/events.zs"
-hash = "66b552b4e881226b084d8e6e48f300184a5595b2d86080f2cd62a1d7969fa869"
+hash = "c665d5bd3a8f5eaf30f109dae77e87fd65dc8ddfa2f021e666948579b51fb4ec"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/hunger.zs"
-hash = "5da48a04e59a296deceb2c23a91aa039938b23f4bab45f92226a7dfa6f368a96"
+hash = "9e4d2aec3676d2ffe6aba5f43c9f48200d7480eb4aa7ccee34a488bb7c15a5db"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/loot_tables.zs"
-hash = "bd168a9aeb1de4792b0d8bb5731277679b4ce5afa9550860f072cc6e21ff3452"
+hash = "d67ddc5c5a60c719d1bc39a8ede3abd900bd70a7124e52280f454da7813fb6ec"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/onjoin.zs"
-hash = "f2445b306a51eeb8e374b757b616b2b98bcd275dea56c2608ea2f357fdc8ff0a"
+hash = "a60a5a5ed90300719175794a7b13b4c0cff4e08d91b520836002e26ffee9dd16"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/expert/tweaks.zs"
-hash = "a2b890856eb842aceeae9ff7a120699384e7095e901f3cd2efb1552cb50b9434"
+hash = "7554556494f4c61133187b2aa15b61a0902e4614d606a18c87148bc3d807e1bb"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/non_casual/commands.zs"
-hash = "48abe61d5a4986c17c5a9085aaae227cad8903114c5453a1091abf8e4c7966f8"
+hash = "055082f42dd418eebbf483b30f92710e14a5d7f5791d4b208a31c8864adfbd14"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/non_casual/sanity_checker.zs"
-hash = "aed944b02c5b54ac426d3373fbb69e0a0473ac4dc571ed9318e8f6ab532be5a8"
+hash = "422c8d3b2bfe65de1afb2009dcd0fa859095cc2034d6ab3aaeecc1a73653a7dd"
 
 [[files]]
 file = "scripts/events_and_commands/packmode/normal/events.zs"
-hash = "08c3054c244a2d0fa3e1a734d39cddd01704b715f1c4e55b275ee7ba7fd71efa"
+hash = "e1db71fafab550cfd227368b29dd5451fd6f8bd3337a45f9951ce011f44706fe"
 
 [[files]]
 file = "scripts/gamestages/containers.zs"
-hash = "d8c0fe4515d7ad8305a42e6d363122b686bb04db0a44034d891826118233d9c7"
+hash = "297194b4c0608875e5b7961fd55e2a0ab26e502b23281095cad866eedc448ba3"
 
 [[files]]
 file = "scripts/gamestages/dimensions.zs"
-hash = "c5205409c91d1dcffab7dd307901e8b09438c8bdfc786cb991366f5da3baf309"
+hash = "4b8a9757028c88af78eab099f81443cd466989aac8c44c1203dcf952a9df5dc4"
 
 [[files]]
 file = "scripts/gamestages/finish.zs"
-hash = "6e541252530eb9b728f80ff84218ef4afc10738fb2b7beff227eedd4ab47456b"
+hash = "129f73bb65f78015f5e8574666470db049583886455e810c2764e58cbf1c33b7"
 
 [[files]]
 file = "scripts/gamestages/items.zs"
-hash = "2cd3eb917d20a71d882227be125bff7b7ff5472e1e6d5dfeb158df3051004924"
+hash = "a6218edbec4b485f4c121c5d674fc733f6df5d6f31dd7d0e4163223a0bda15d7"
 
 [[files]]
 file = "scripts/gamestages/liquid.zs"
-hash = "77c28836ddb346175f42112504ec667fc23d45d808d2fd2154ab2264eaa43887"
+hash = "9b2ee7ffd2ffc8894359c410fba4f5e64336f359438e85455db51755dc10739b"
 
 [[files]]
 file = "scripts/gamestages/mobs.zs"
-hash = "241f347ea6c7d459931160cc594a5192052f76df47cf2e42abec9492d81a08d4"
+hash = "dfae08ec8cd0508f6c961b024a8e386173f08ea2ea38817c9bd5a1963ad63d66"
 
 [[files]]
 file = "scripts/gamestages/ore_replacement.zs"
-hash = "df6c5aa5818dce8d643705b071e458588524ecf46e36d3dc10d945fd1a9b0d4e"
+hash = "09c3d34f5dcbf47654eadcdcadb48775a4981fe74a13452fdecefabbeaec142d"
 
 [[files]]
 file = "scripts/gamestages/restage.zs"
-hash = "da64c4ded3b378d0c405fae65467709a52c8aab259be1fd08ce07edbcd3e9066"
+hash = "c18169923b874a371db033838d70585648b1f496d4ae2b2bbc9e7824900c2405"
 
 [[files]]
 file = "scripts/gamestages/tinkers_stages.zs"
-hash = "649430807c924afaace5151c57ad471c2fc3e8bfb99bb07487997a5621d50b79"
+hash = "80d017a85e2d6e4ca3ea78e0075b0d4fba41814c5d0f11caef91a34c1396fa0d"
 
 [[files]]
 file = "scripts/gamestages/tooltip.zs"
-hash = "5e6a9bdca532448a3a208e7b9fcc3641de3694b05de692d298fa67a6a88d7cfe"
+hash = "4596437d279f98dc2d2ddca7d7f46b18fc2edbad4ef5b9e191653ac12744389d"
 
 [[files]]
 file = "scripts/gamestages/unfamiliar.zs"
-hash = "1d5652eece2e7e72226c7ed24b1a969d3aab4b2176b8ee81285d1b578aed68ed"
+hash = "7751fff253e7676150ff683b998429076a80837ec541b1676cd1e290415cbaa0"
 
 [[files]]
 file = "scripts/global/deathquotes.zs"
-hash = "17f8368d7844a6e023c8e008b6a4bdf0155d3f88f08d8d5a489c7020c7fd410d"
+hash = "d0214cbb2c4888d4f1cbe77f6fa1fb8ec155a335d43f64e72014c1fdc596f756"
 
 [[files]]
 file = "scripts/global/difficulty_mapping.zs"
-hash = "ef4fd67f0f23820bfb638ce79ff90943ae5a47ff9d1be9c1b5ec1da6d58fb0d8"
+hash = "3c2dd8049c4f3148601b7de2fe2b477cab10b98cb23309e9ce71920e3d7ccaca"
 
 [[files]]
 file = "scripts/global/difficulty_mapping_expert.zs"
-hash = "8b1bfe2b3921489815ba7d87bd30d2a23d40d408512fef330a8f8b101efbd208"
+hash = "c14707ccce4a9fc103618ce46344f5638865482b256bcd885e84e6c6248345ee"
 
 [[files]]
 file = "scripts/global/dyes.zs"
-hash = "7e47b982cce6ef02e6e9664555a110ced6f424c6136a10e7ecf7d8e9b3585e77"
+hash = "0e908a1ffc92dfe889d13f17307cac3e915c604c638752a8dac4cd0c161bd254"
 
 [[files]]
 file = "scripts/global/foodlist.zs"
-hash = "fe67cc479865806687899d505b125ed918f4996e4d4fd966fbab83518080fadd"
+hash = "b4a19f8c780debdec7b3f142a397f65b285d7d898b0352f0f16014ffd1544b83"
 
 [[files]]
 file = "scripts/global/furnace_recipes.zs"
-hash = "015c0c320d87ba77f3d13146694432014699d276b111ccfda1641a3318cc4d34"
+hash = "006e7b0897548890dc742577532f8ab3fcd411d7d06dbe588753c36788639333"
 
 [[files]]
 file = "scripts/global/gamestages_lore.zs"
-hash = "0cb67de6bdfdba0ee01693379a80a5dbcaa5f9a4f1aca53152d7a0abad8c5b47"
+hash = "422be9fcee1c852bea3f7631414bd503b10eae5261bf228aaa4fb4807b19d3f4"
 
 [[files]]
 file = "scripts/global/list_stages.zs"
-hash = "89b6f3cd6c1ee1e4221d39dba7b76b8d9883f960df1d8b8fe5ffc0afa927f83d"
+hash = "ec4ae38f2a93a6c25678aec27a91ca566c28958ff45fbf6c59df66d990a2a832"
 
 [[files]]
 file = "scripts/global/misc.zs"
-hash = "1728efc37cc77f1a2fc834717d5d82957f5b4b79b236c9c218e96c012d814fcb"
+hash = "d5da4a0a538363ea7a41cfac715fdc09cf80b31548237b257c63b3b45a6d46df"
 
 [[files]]
 file = "scripts/global/mob_spawner_quotes.zs"
-hash = "bb7d591aacb5d416c8d52c088430b24e69acc342ed14f5938b9fea78c44776f2"
+hash = "e2334071149b2ecaf3cd6b00a02ba7a76dcf33405c9b7858cc7232064ea7dd97"
 
 [[files]]
 file = "scripts/global/omnipedia.zs"
-hash = "c875f977494c6c566fc0b159100022957388d58ebc2189ddfea88dc17b0637fa"
+hash = "f4c624d2218c2099cf010ffdcf55616b2dd18f344fb4c496bd093e7ecd7a0194"
 
 [[files]]
 file = "scripts/global/packmode/adventure.zs"
-hash = "c73710e3dc16322172dd6ff3f6703c0b0ada77c5aa4cad460ab3e6eea088ad16"
+hash = "f16907ea469fa87443ac4f965dfdb0aab9ea9d13f1eec9299d4900014551dd0f"
 
 [[files]]
 file = "scripts/global/packmode/casual.zs"
-hash = "51cf3891262edd06a93f5ccdb77129e4f8faae5463cad1d61ef9b8471adad7af"
+hash = "881da0aafe675040e07a2ca14f75a621b93a026d2fc6b4d0d6bd8620b15d9a05"
 
 [[files]]
 file = "scripts/global/packmode/expert.zs"
-hash = "afd8a56b477522123daba3781266c4e3ad3780f5217d5a81b21b98edef64de77"
+hash = "513b797291a69b4ca290ec590a0a19da9c3c07298efcb4dbbca734d9235bd796"
 
 [[files]]
 file = "scripts/global/packmodes.zs"
-hash = "f6ecc4bd66e50a5a6baaf34c2c6cd20352c117ff1090cdef614105131d03b2a7"
+hash = "95ec876b18bb93e4dee7defecc0a6084f68bde63623a1f35638b9f8fe4510737"
 
 [[files]]
 file = "scripts/global/patreons.zs"
-hash = "c1968b26e731296c6b5c2e49a57a679422cf6c537432542c6ce6a7831e1d93c1"
+hash = "b11f429cda8c4417de3f3329c99ca294e04bf33f2aafef20310764d8051feebd"
 
 [[files]]
 file = "scripts/global/pure_daisy_transmutations.zs"
-hash = "63006e77a178e309a98b075f0da31099e4cacc6aa7de354e573c55ebd19b8577"
+hash = "5a9a5cdee93b7615fd6852e3b8ffe8e79e5ff60cf6ce90c59ef9f8f090639aa3"
 
 [[files]]
 file = "scripts/global/server_translations.zs"
-hash = "7b00ea979f7ec9eeb7ff0e923f69b97e231c30b8a4426b5f797355b4968b0ec5"
+hash = "b42aa5cf8451fb9a3462ad336faf55df2f0a2790449d4b8194a4fb5a14527937"
 
 [[files]]
 file = "scripts/global/welcome_quotes.zs"
-hash = "61c3a32a215b3ac13b6c967384141a8cc3cb786d222fcc64349fbd70600aa99e"
+hash = "ef54c4f9056294600605ac63e424f0a57b2a9328b629abb8d177aebecac8d713"
 
 [[files]]
 file = "scripts/global/whitelisted_commands.zs"
-hash = "8ef0281849a792897569218c29adbb5d8b5e52ed07d088143291640694c40604"
+hash = "6f366eff41f912e867efe83bda9041272df8db358aab21b63899c5aaf9a238ce"
 
 [[files]]
 file = "scripts/loot_tables/dungeon.zs"
-hash = "75f13e1162ac1a2d9e5ffcea5d31b3341246717c6077d260db909af66aa3f13d"
+hash = "93a4489db99c904d140e58c019e8c343848c6286a3ea1c7249698b0dc06403a6"
 
 [[files]]
 file = "scripts/loot_tables/food_bag.zs"
-hash = "52c93cf5b8ba5dc1c4e555239fbb8749518da866ebccc83959cf1ba58eb36495"
+hash = "21cf210f37bc6ce348bf7e2c1caa7290f13dd669ba59c6eb0bce8f159540bc86"
 
 [[files]]
 file = "scripts/loot_tables/furniture.zs"
-hash = "044ab5cfa7d6cbf6070cfa34235655f492b9051b2802d29721e4e91d06ed59a9"
+hash = "34c8c9f287934e7075ca780e27d0a6ec5cc8411e34a3480c20e6e3ba8251a0b7"
 
 [[files]]
 file = "scripts/loot_tables/gift.zs"
-hash = "b8db7d19b07b583c21537702230b6e87b1185ee72526cadecd5e2f12322f29b5"
+hash = "946bc00a43f7b9046eb45eedebcbbe2ae5d4bfd1ba15b3d8f554e011bdee51c7"
 
 [[files]]
 file = "scripts/loot_tables/mobs.zs"
-hash = "ab390e6af1577fdc05b305c37163862289cb173557e275875686a825f75b02f7"
+hash = "1b2115a600087b6a72357fb0d54e108828f6dcaa5c14bb41f65a47dd03e82430"
 
 [[files]]
 file = "scripts/loot_tables/tweaks.zs"
-hash = "dd0fa6f53e1a102a09c2f4836bb606c54ea38e1cdec88d6bac06710e39a2d74d"
+hash = "80a7296ae46e09268cd2f4b567227cc550b3aaa310e7174fe783d13115a6623c"
 
 [[files]]
 file = "scripts/loot_tables/urn.zs"
-hash = "e98b9421c5632fc230f71adf2e2d9f068a92dd1566db1770db4c375f64f6f35d"
+hash = "168a65ecc64336beab826ae9f36c5950a45256512dd6ea4b7735e42ace92eebc"
 
 [[files]]
 file = "scripts/misc/disabled_items.zs"
-hash = "c48e8bcd3bd13a473c29aa1e49a9221d7cda657c8ef94418209069446c7606b1"
+hash = "e408b4d295d17c3a274e769a87892a88d1e4d6781a5bfbc17dba5886c84cd4b0"
 
 [[files]]
 file = "scripts/misc/mob_armor.zs"
-hash = "14abffb9b2c250e542c11ddf7832ee1b9cc030528a17d9c618028b5e634d0cab"
+hash = "c76ee97f3ce9b3867139aabe2cd0d31143846323e6846953828e8003cde8da57"
 
 [[files]]
 file = "scripts/recipes/mods/abyssalcraft.zs"
-hash = "6b5e23e4c5bf22770392d19dc89f826e255128c6b70f1684c139752c3cb46d42"
+hash = "bc74e4f21e0f974a39e6f5177a0c9a9f997b50343ac36b46b6a351aca6b5acc4"
 
 [[files]]
 file = "scripts/recipes/mods/actuallyadditions.zs"
-hash = "66bf2e4a199a34f9bf8dfb1360e258fe7a01ac4a836ea0f7f803986faf963e1f"
+hash = "2491fc9aa0daf2332cac3306d46950738232643b304f620ad80341a0fe81b125"
 
 [[files]]
 file = "scripts/recipes/mods/astralsorcery.zs"
-hash = "f97386be6fbe0eafaf9f84b07e22a16f7307d7cdcf252bd87a5b951b696702d8"
+hash = "e4f707d41e65b37c9c6a4108e5739a0fb67ede7f035a22e4cfe08feb92dfac83"
 
 [[files]]
 file = "scripts/recipes/mods/avaritia.zs"
-hash = "ce6d67acbeee87ea5ee205b00df89aa874e24b196ae247d7b9fb3a2e3bcb72c7"
+hash = "12e6d8a29d58869627804a18b3a10a805c39ce32791be2f607ff6a0d041643fa"
 
 [[files]]
 file = "scripts/recipes/mods/bloodmagic.zs"
-hash = "455db9aacaed7e2798c251d119f04a31a87aa3fff1cebd6ff00491cb236ba262"
+hash = "e67820d8b7df9203c0bbbdfeeb8ae565f7893e96f69eb86cb258363f35a5e61e"
 
 [[files]]
 file = "scripts/recipes/mods/botania.zs"
-hash = "1b49d041ce01ce2b1734dbc52e4e5bdf518abddcda03b898ed0150d4ed05a5b0"
+hash = "74f2260f61da059c5fe6febe6ecb64ddd4e92c3f79a67141363639319d6ad678"
 
 [[files]]
 file = "scripts/recipes/mods/enderio.zs"
-hash = "28884a62ba13c8407c57526992f14ce2bc3309351d6211405075a513ce01a928"
+hash = "87eb3c44ed41164aa99a26e1cf550cc395f8f582a2a1409919b4a4198a49804e"
 
 [[files]]
 file = "scripts/recipes/mods/forestry.zs"
-hash = "b95a6517bf7ff177f79ddceabb5c3bb58078e0d17b5e86cb546bdbd321ba5c3e"
+hash = "8a215d81fe2f42dea710df2695be0f63d52f1ed52fd572853b532ff294ae285a"
 
 [[files]]
 file = "scripts/recipes/mods/machines/alloy_decomposer.zs"
-hash = "b3547192cd85651563bd12c295d4bdb0b2c97453a1d16b474c9943c0a8f892a5"
+hash = "aa5004829d6674d0e80e6a931799d119b4483d67c98ca70d957440a1e2d28781"
 
 [[files]]
 file = "scripts/recipes/mods/machines/blazing_furnace.zs"
-hash = "e61f75d801280564f2f87d97e5b4fc317fd5b4e87b12abfb7a5cbe390c99cfc2"
+hash = "2869fe22697a8f1e804719cadb6de08449a93d40ae676835436742de901efe03"
 
 [[files]]
 file = "scripts/recipes/mods/machines/exp_power_generator.zs"
-hash = "0987bf1b8b672707cab9b5ed8bd80cf2bd025e1c76b3b674f13d6b64dc1b5d96"
+hash = "44443041e6d8c42b40f26f9ae978b0f5b335924ec91229931ca66c0383218862"
 
 [[files]]
 file = "scripts/recipes/mods/machines/forge.zs"
-hash = "03a6203358839bff53b1f0db35e6fd1f32d89f205f1618887f78ad5b19c707ac"
+hash = "b707175a309d02ea21cd44af718690f2b46ad5cd19b537cf5e3630918280846b"
 
 [[files]]
 file = "scripts/recipes/mods/machines/liquid_centrifuge.zs"
-hash = "0498d4645b7ce258ad136ae16feefd6fe2b9f2c692ff17939cdb99b83261ca63"
+hash = "d7e4ab069fe830ead008c9a31d3d6c8480f8b6cc41113971340b1388c9cbc0b3"
 
 [[files]]
 file = "scripts/recipes/mods/machines/liquid_converter.zs"
-hash = "1697dd42527046cbea56b96717d77a112b32da98a841a534548586ad697f6271"
+hash = "72a85b83b383d28b0a9d281bbf0e00269895cb107522e1d3f55c75b2ba17c656"
 
 [[files]]
 file = "scripts/recipes/mods/machines/loot_power_generator.zs"
-hash = "e93143d8acd0c4f3164e214131b369ae7ff0916d323432499ac7b5566a9f47e2"
+hash = "ae31d220042bed6727d3cb2341335d77e0ab3f8e4e90ae338778c5fe93dc1ce7"
 
 [[files]]
 file = "scripts/recipes/mods/machines/organic_infuser.zs"
-hash = "04514903091da32e0b85b11001ec4340b2ce93990041b0ba762fc44e98f46041"
+hash = "acd8f0daf4775605be8b57f234b260606b38664ad110a08930d3013c3882a3d8"
 
 [[files]]
 file = "scripts/recipes/mods/machines/organic_producer.zs"
-hash = "ddb19eb3f4c2750b833f05b3dc5af0a99bfbbd1abbe90c3a0cfb5993bd60fa57"
+hash = "afa8fbc013050bad7109c3396733445109aa855becc5258db0151ee430805d32"
 
 [[files]]
 file = "scripts/recipes/mods/machines/solid_centrifuge.zs"
-hash = "105ee328dc0d352d97abb3c929e47851d8fe00322ea1db38784b9b044dd865cf"
+hash = "634bcb09d38a2a91ab14f865c31aa38a10af6d9a7c03e7293737f41ca0bc418c"
 
 [[files]]
 file = "scripts/recipes/mods/machines/soymilk_producer.zs"
-hash = "52771eee2d6360d1a23cc03606058f466781df0d2db88833521f41ba1d33287f"
+hash = "7180a3a5ef86222b77d09377e69be095e14089363a3d82538e664e11e3654eb8"
 
 [[files]]
 file = "scripts/recipes/mods/mekanism.zs"
-hash = "0c79e50a5202cbbaebff5ceb7b479d19f4678f704b78314886414494dd71807d"
+hash = "f205ffa7c7639b70a11e8a46eea144ee999f8fb9762f1396ac8a773a6c525cfa"
 
 [[files]]
 file = "scripts/recipes/mods/mysticalagriculture.zs"
-hash = "ea0625556cd068cc277ec2a22b28bf92f075874e4198b6afa534d28d923703ee"
+hash = "9ee6c150a23155e8c3cd811a88c1c1e2127773f90fcc14a58b160c2e88e5a3d6"
 
 [[files]]
 file = "scripts/recipes/mods/projecte.zs"
-hash = "ea6d0b6afc288890ab21cc8b24f9d6b7f15c01f3495f1143cce57fd663bed0df"
+hash = "2e2221488307ef6c0ef21afb91c311a2be8184a6d60578ef6e0c0527cce1d4aa"
 
 [[files]]
 file = "scripts/recipes/mods/tconstruct.zs"
-hash = "db10079c551f4118b9e9050f91885dfed4b63909b60ef3c2d2e5a6b33cb3956e"
+hash = "e2653cb71cd65fa77e84f0111a9cea0f571ef5dbfd1b6b98af2890f475ddfb21"
 
 [[files]]
 file = "scripts/recipes/mods/thaumcraft.zs"
-hash = "eef4155acb08c652fbd8c41dd3f1336ff8a58b4a8a30a5274510e651167052f5"
+hash = "5814ec3a7b35ebcfbff36addc2dc7cebaab1aebabdcae20c23102e7c4efd26c2"
 
 [[files]]
 file = "scripts/recipes/mods/thermalexpansion.zs"
-hash = "255bb84800b6b7c38bbfc7cc15aac45ce3389188750e50d009975cdcd4e11d0a"
+hash = "3ad24843d90f90425ef504739ce69df8b4aa9738dfc4dc8cbc2646aa890d9c4e"
 
 [[files]]
 file = "scripts/recipes/mods/touhou_little_maid.zs"
-hash = "7317e65d96f32dc328ae00b795469d2fd090ba55da07aacdaee0ec91a011e005"
+hash = "af874c062139af497fcbcf913b161ce253fbfa24c95b7045f952369a7da50fa9"
 
 [[files]]
 file = "scripts/recipes/packmode/expert/mods/astralsorcery.zs"
-hash = "a4c389b64032be73f02b95bffd81c8172deca218d734533e9cd183a2e6f7633f"
+hash = "c6ce500441d7fedfbb920cae48b700e2cd9a9dce11d05c6c293047073725ec00"
 
 [[files]]
 file = "scripts/recipes/packmode/expert/mods/draconicevolution.zs"
-hash = "01a5d379d8a4e09e2af833c39cdc95f8de9d59e34716b5dee16350b7b41ddb1f"
+hash = "803fd16458842eecaaeceb8b4b537151417fe4049fc806992aecb577515964db"
 
 [[files]]
 file = "scripts/recipes/packmode/expert/mods/tconstruct.zs"
-hash = "499f5aea8c7a44d2600fd7e947210c8cd50f6a5d33c592d1c692fac82a3f4f29"
+hash = "edacc9a36636e638ee1c7f3f68be54c072b226b7bfa418d435b80b8c3584f603"
 
 [[files]]
 file = "scripts/recipes/packmode/expert/mods/thaumcraft.zs"
-hash = "21e38b205f66e9a43dae6e747d3a8ce789bc78574538fd1fdeea2b25b4bde31d"
+hash = "2b53599a96d94c2a2a522b8278e3c861488648c01ff5be0a8f77ce6297303e62"
 
 [[files]]
 file = "scripts/recipes/packmode/expert/vanilla/crafting.zs"
-hash = "7c686c3a91586416b38af6659ebc0de9f2f2859d55ec18fb794cbf464b10cc73"
+hash = "d07a19ce43fec373311055ed3c941e96181e99ba82abad64f2954b629319dcb7"
 
 [[files]]
 file = "scripts/recipes/packmode/normal/mods/astralsorcery.zs"
-hash = "160a032dbf0d966059b4d7b8f86620e457cb4843810caa63ca15fb98c759644b"
+hash = "1ef4d4fe1d0b09772e3c010e8d82cea79998549378bcd6141ffbf53f2b0ffb12"
 
 [[files]]
 file = "scripts/recipes/packmode/normal/mods/draconicevolution.zs"
-hash = "a2f04d57e760ac7e34770d04e27a53900ec5c443afc09d45f1d26edbce5a1b2d"
+hash = "97597c962958f43651c2741e7cefad39a5468d49a54cdb1de057a0dcdd878dfb"
 
 [[files]]
 file = "scripts/recipes/packmode/normal/mods/tconstruct.zs"
-hash = "fdb5fa5217bc479cbcdf3fa4e1507b6cb5b070d7680a1f0845aac129c7eb351b"
+hash = "06feaa8a7dc3d9dc9f87b411e8f3df255cf11101094cee905e727bfb6bf8f8cf"
 
 [[files]]
 file = "scripts/recipes/packmode/normal/mods/thaumcraft.zs"
-hash = "e8c43a340805f151725842fbbc379e29a5e0206684c1e3310d57a6d36f3d9df9"
+hash = "61952aa800164c19f5b9c84d83b1a1471d0da9a697a7ad912f94bb7953eec48d"
 
 [[files]]
 file = "scripts/recipes/packmode/normal/vanilla/crafting.zs"
-hash = "6714734a2f142f921713a6700a45304e3c9314782fba6483e3db80d031aa427c"
+hash = "465921db8adf7c4fd87ab303f7f3bec875f8e7b705fa37f1ad6bc55f17258dc7"
 
 [[files]]
 file = "scripts/recipes/packmode/vanilla.zs"
-hash = "1d416db3ce6e0b311e613efb5ca724fc872865d99dccdf03260428162dc4d02b"
+hash = "7e6319b6e4c103870d291da73967240e53e0827c7d5b6bea4109c62c07037b73"
 
 [[files]]
 file = "scripts/recipes/vanilla/brewing.zs"
-hash = "19b27965d795739a1f987e6d7ffdf203572a66d2c085ef2c87e4734880214784"
+hash = "73a44ef1b91a9c1f47c0c4b087d8f7ee95386e3c2742545c9aa6ff081fe0d3e6"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/changes.zs"
-hash = "7953636a9a0847e2bd3fd3838f5e4129e4b23a2b8aee122cf66c533616dd8c73"
+hash = "c35513b6d65858181fd53db60cfcad6fd0c7a7e8dc270462d144af677749ac87"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/compressing.zs"
-hash = "000a49f7d3d24b0f1ef10908ae989880f22b8bcd8a9be44ee9aa9deb207fc561"
+hash = "8fde3929bd53e683569df0c66c57de5d5dd8c5a04ccb3af9bd202b52a655003a"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/dyes.zs"
-hash = "dd36a2ef8b4f6e8fcccc004a39cdc163cc3e04d1b681b4f2632cb3973ad369d2"
+hash = "71a07b303aae2a97abf704e9ea1cc577395242fc5ef102b6be76585d3cc9c1d2"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/recipe_functions.zs"
-hash = "13666036446bec54ae511d2b5a477f8c69adefacfc7142b45f6ee804b06c8562"
+hash = "31df5c79fd200ad4c7d9b9d16134572a8aed2152cb2b4ecb46b2e7a7515efd76"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/remove.zs"
-hash = "46b0f64b733107dd6868f9777fbb78fcfcb8eec447953246247dc13382e03b21"
+hash = "885af83a9c7170eb092edb7591ef702591dff86f2fa62b313db576afb29f7096"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/shaped.zs"
-hash = "90e55a5756f7dc09e26197b0ec1c985ca0b7879b4a990b456b427a756d7659ad"
+hash = "e89c107f97d7b91b5a953c6321909b4d1c96cbb61ab1527b9d70759a6ea25a23"
 
 [[files]]
 file = "scripts/recipes/vanilla/crafting_table/shapeless.zs"
-hash = "96918cab9daba513f042ea5efd3096e491bee932a9ee7508f604a67cbc82de92"
+hash = "a12317c6512432815a9d06400d2b3bdfc43b3c71d44397f305ffc3a4ca2ec3f6"
 
 [[files]]
 file = "scripts/recipes/vanilla/furnace.zs"
-hash = "732a02632e2b9694c548703eea86688168d293970716738c32af450a4837e5fd"
+hash = "b7bce754412dbf4cf2d9770806d3347e68e62a5fcef2dc88a846c7863264b060"
 
 [[files]]
 file = "scripts/tweaks/display_name.zs"
-hash = "fe920b984d8b455f9782320723ca37bd2f7f0bd5ae8d12d9b28d2eb5569c106e"
+hash = "e2eac31cead87e79f4f094556f3cadb9496929266e8ca9021b585b0f51282421"
 
 [[files]]
 file = "scripts/tweaks/food.zs"
-hash = "23932f02528bac07c25e9284d69bf8616c795a0e1253eb4f47dc914986cedd93"
+hash = "7f9162ebfa940752ab4bae8521cfd855389ac853df6543888a496cb26045546a"
 
 [[files]]
 file = "scripts/tweaks/harvestlevel.zs"
-hash = "b5a21c75e5385e35d8b67f8d2607db43c8257502ad246dbdf2c5d348135855be"
+hash = "7d56456251326344fc13c4fac3253650a1c0ec7544b628ef5fdc0777ff95f3ca"
 
 [[files]]
 file = "scripts/tweaks/liquid.zs"
-hash = "36ba71bc3c8e1315c89345d14f2cbddfb2fc7a64ed023fa3ff7e4c346d7246f3"
+hash = "59c936e70a5a1c2e2a689bbe1e71a2416bc4d6a761cbd066d7692239fc41e8a1"
 
 [[files]]
 file = "scripts/tweaks/localization.zs"
-hash = "4542319ddfc3e6429b01b7114f680ae31be25e050bf7a19208754ad3fd7569c9"
+hash = "4e904d55b82162a5449c0ee8524d1340a2943ad55a259406ec925a110c73f766"
 
 [[files]]
 file = "scripts/tweaks/oredict.zs"
-hash = "d96ba5f3b8d003cc8b56bec97bb42336cffb23db45d8ec9678e895d7d59dc143"
+hash = "da61e1db652b97e47a3e35c20ee5e8ed832ebc24a3cf37c7b1ac756cc3bbcd7a"
 
 [[files]]
 file = "scripts/tweaks/tooltip.zs"
-hash = "56099067c512e2483cafa217babd79e5eacb42bce1ef463a8c661782f23c0ded"
+hash = "4e4e8af014a915f507bfeec267bc2d57089deb9e05306e3ddd03beca914c3bcd"
 
 [[files]]
 file = "scripts/util/date.zs"
-hash = "bec8b7bb422ec3f3b3548cbc6cd91dccc3728d65c8fa770d155e56da89067966"
+hash = "1eb8e6cbcd57d20c6aa0e1bd07ba19ba469c3b14120e82935866dc9f3383a22e"
 
 [[files]]
 file = "scripts/util/gamestages.zs"
-hash = "51cb43d557080e5670b9387f470edb76d789c6263e3d2d9f5e5da101ca692864"
+hash = "629639615266a68a64564684e084e7d9e8e535a78388aee186b28400075218cd"
 
 [[files]]
 file = "scripts/util/lang.zs"
-hash = "7388606ecab6483a8ca0624ee5d65d7288337a0a619620779392007d9a2e401c"
+hash = "59e16b038ab146db8950d2fa0d43f688100f5f7bd70c4533946e5d599ebf6d1a"
 
 [[files]]
 file = "scripts/util/loot_tables.zs"
-hash = "0237822240d65b565794056163f2fe2b801de526aa1fa656c793925ee3e45eb5"
+hash = "e622ef509abe0ad9e2714985d6ad22d1f5ebc34c7fb7ca8123e4c9e530ff0b3e"
 
 [[files]]
 file = "scripts/util/machines.zs"
-hash = "b4361a79d6b9d12778e9c1e239a858cff62426fb2d5753eee4c14ec58cbaace1"
+hash = "3817ccf8fdd8d86222a9fd7ebf73a7e22430f223152cc85f4002df1efa1552cd"
 
 [[files]]
 file = "scripts/util/math.zs"
-hash = "50b4611b6370b0f0b1a208b511b3704180efeba1c3c74a8ccd256711299e0895"
+hash = "28cc62eb86ad5c26443f65bdd5a3d5fc9b6df0be2c80a5d12b88e10d39f5296c"
 
 [[files]]
 file = "scripts/util/mystical_agriculture.zs"
-hash = "2d53317776d785c69bbec0bf1143200d975f832500ec37d8c33c4a3fee174be0"
+hash = "9d7d79b24f34db5dbcf77724ee8a55ebbeea80c224c59f5986c1123fa09bf066"
 
 [[files]]
 file = "scripts/util/oredict.zs"
-hash = "57c88c3cf18a5da52a1c7f43119e9f397b36b2dc3f0ce7d260cf22f9bfcddda2"
+hash = "12e23e081a5ca741c41b4604ed588ee4752070d65302589d93e3dcf114a2b57f"
 
 [[files]]
 file = "scripts/util/patreons.zs"
-hash = "4ae3f9e4d44242aa79457a9eeb14daa7d14e15aa7e1839dd17715825b818c2ff"
+hash = "9a0fa2b9ec5f876f4cac1c1ce938bc13626943fa367d740468c7daf8099347b9"
 
 [[files]]
 file = "scripts/util/recipes.zs"
-hash = "b21b2f3aa5bfcb7b203b3fcdba1897bea12754b81bf81a73890ffd259aa89773"
+hash = "8c83626358f5f1c61cd08ce8a61ac2ddba9cc65c1d006d785cc70d5ef59cd82f"
 
 [[files]]
 file = "scripts/util/versions.zs"
-hash = "e1ce0c2720647dafe85c9752698703ab4f705cb5bae7e2d8e10d9190d56e5c3e"
+hash = "f6e15965e6fd925c794969f65f88b6bbc81ea1ffe783d6ff438d027989337276"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.0.2.zip"

@@ -1,7 +1,7 @@
 {
   "main": {
     "0": {
-      "title": "¡ì5View current difficulty ¡ì9¡ìoScalingHealth",
+      "title": "\u00A75View current difficulty \u00A79\u00A7oScalingHealth",
       "icon": {
         "name": "headcrumbs:skull",
         "damage": 0
@@ -14,7 +14,7 @@
       }
     },
     "1": {
-      "title": "¡ì6Open extended inventory ¡ì7(if unlocked) ¡ì9¡ìoCyclic",
+      "title": "\u00A76Open extended inventory \u00A77(if unlocked) \u00A79\u00A7oCyclic",
       "icon": {
         "name": "forestry:apiarist_bag",
         "damage": 0
@@ -27,7 +27,7 @@
       }
     },
     "2": {
-      "title": "¡ì6Open quick crafting table ¡ì7(if unlocked) ¡ì9¡ìoCyclic",
+      "title": "\u00A76Open quick crafting table \u00A77(if unlocked) \u00A79\u00A7oCyclic",
       "icon": {
         "name": "minecraft:crafting_table",
         "damage": 0
@@ -40,7 +40,7 @@
       }
     },
     "3": {
-      "title": "¡ì5Unleash entity ¡ì9¡ìoPlusTiC",
+      "title": "\u00A75Unleash entity \u00A79\u00A7oPlusTiC",
       "icon": {
         "name": "minecraft:spawn_egg",
         "damage": 0
@@ -53,7 +53,7 @@
       }
     },
     "4": {
-      "title": "¡ì3Open /dank/null ¡ì9¡ìo/dank/null",
+      "title": "\u00A73Open /dank/null \u00A79\u00A7o/dank/null",
       "icon": {
         "name": "minecraft:chest",
         "damage": 0
@@ -66,7 +66,7 @@
       }
     },
     "5": {
-      "title": "¡ì6Open Backpack ¡ì9¡ìoSimply Backpacks",
+      "title": "\u00A76Open Backpack \u00A79\u00A7oSimply Backpacks",
       "icon": {
         "name": "simplybackpacks:commonbackpack",
         "damage": 0
@@ -79,7 +79,7 @@
       }
     },
     "6": {
-      "title": "¡ì6Open wireless crafting terminal ¡ì7(if equipped) ¡ì9¡ìoWCT2",
+      "title": "\u00A76Open wireless crafting terminal \u00A77(if equipped) \u00A79\u00A7oWCT2",
       "icon": {
         "name": "wct:wct",
         "damage": 0
@@ -92,7 +92,7 @@
       }
     },
     "7": {
-      "title": "¡ìaSwitch real first person mode¡ìr¡ì9¡ìo RealFirstPerson2",
+      "title": "\u00A7aSwitch real first person mode\u00A7r\u00A79\u00A7o RealFirstPerson2",
       "icon": {
         "name": "minecraft:skull",
         "damage": 3
@@ -105,7 +105,7 @@
       }
     },
     "8": {
-      "title": "¡ì6Clean memory ¡ì9¡ìoMemory Cleaner",
+      "title": "\u00A76Clean memory \u00A79\u00A7oMemory Cleaner",
       "icon": {
         "name": "additions:greedycraft-item_purger",
         "damage": 0
@@ -118,7 +118,7 @@
       }
     },
     "9": {
-      "title": "¡ìaSwitch magnetic card mode ¡ì9¡ìoWCT2",
+      "title": "\u00A7aSwitch magnetic card mode \u00A79\u00A7oWCT2",
       "icon": {
         "name": "wct:magnet_card",
         "damage": 0

@@ -1,13 +1,13 @@
 name = "JARGCA"
-filename = "JARGCA-1.12.2-1.0.0.0.jar"
+filename = "JAOPCAAgriculture-1.12.2-1.2.1.17.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1624a6ac5dea6f1cd793acaa3d315bf5ea0e4cf1"
+hash = "238e55c1d630b7c6adbbc45ef6cc8746bf5ad099"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4293678
+file-id = 3330588
 project-id = 286546
