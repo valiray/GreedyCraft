@@ -162,6 +162,7 @@ global deathQuotes as string[][string] = {
         "§e%playername% left the game.",
         "§aHerobrine§r wants to add you as friend.  §a§nAccept   §c§nDeny",
         "§eTCreopargh joined the game.",
+        "§eValiray joined the game.",
         "§3Behold:",
         "<Herobrine> L",
         "<TCreopargh> L",
